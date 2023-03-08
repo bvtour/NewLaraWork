@@ -1,0 +1,12 @@
+{
+    "data" : [
+        "home" : {
+            "banner_top_text" : "",
+            "banner_top_text" : "",
+            "banner_description" : "",
+            "google_play_link" : "",
+            "app_store_link" : "",
+            "banner_bottom_text" : [{ "text_1" : "", "text_2" : ""},{ "text_1" : "", "text_2" : ""},{ "text_1" : "", "text_2" : ""},{ "text_1" : "", "text_2" : ""}]
+        }
+    ]
+}

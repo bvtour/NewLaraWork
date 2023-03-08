@@ -1,0 +1,866 @@
+{
+  "home": {
+    "banner_top_text": "Your website, reimagined",
+    "banner_sub_top_text": "Our landing page template works on all devices, so you only have to set it up once, and get beautiful results forever.",
+    "banner_description": [
+      { "text": "Lorem ipsum is placeholder text commonly." },
+      { "text": "Excepteur sint occaecat cupidatat." },
+      { "text": "Lorem ipsum is placeholder text commonly." }
+    ],
+    "google_play_link": "",
+    "app_store_link": "",
+    "banner_bottom_text": [
+      {
+        "text_1": "2.4M",
+        "text_2": "Days turn around"
+      },
+      {
+        "text_1": "7M",
+        "text_2": "Days turn around"
+      },
+      {
+        "text_1": "7.4%",
+        "text_2": "Days turn around"
+      },
+      {
+        "text_1": "49K",
+        "text_2": "Days turn around"
+      }
+    ]
+  },
+  "about": {
+    "title": "From rough design files, to powerful products",
+    "sub_title": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur excepteur sint occaecat cupidatat.",
+    "image": "",
+    "video_link": ""
+  },
+  "how_it_works": {
+    "title": "Build and style every element to perfection",
+    "sub_title": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur excepteur sint occaecat cupidatat.",
+    "images": []
+  },
+  "services": {
+    "title": "Start building for free, then add a plan to go live",
+    "sub_title": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit laborum — semper quis lectus nulla.",
+    "categories": [
+      {
+        "id": 1,
+        "name": "Getting Started",
+        "image": "",
+        "sub_categories": [
+          {
+            "id": 1,
+            "name": "View All 11",
+            "image": "",
+            "pricing_list": [
+              {
+                "period": "Yearly",
+                "price": 27,
+                "billing_period": "billed yearly",
+                "description": "Lorem ipsum dolor amet sit consect adipiscing.",
+                "app_action": "",
+                "discount": null
+              },
+              {
+                "period": "Monthly",
+                "price": 47,
+                "billing_period": "billed yearly",
+                "description": "Lorem ipsum dolor amet sit consect adipiscing.",
+                "app_action": "",
+                "discount": null
+              },
+              {
+                "period": "Lifetime",
+                "price": 127,
+                "billing_period": "one-time",
+                "description": "Lorem ipsum dolor amet sit consect adipiscing.",
+                "app_action": "",
+                "discount": null
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "name": "Getting Started 11",
+            "image": "",
+            "pricing_list": [
+              {
+                "period": "Yearly",
+                "price": 27,
+                "billing_period": "billed yearly",
+                "description": "Lorem ipsum dolor amet sit consect adipiscing.",
+                "app_action": "",
+                "discount": null
+              },
+              {
+                "period": "Monthly",
+                "price": 47,
+                "billing_period": "billed yearly",
+                "description": "Lorem ipsum dolor amet sit consect adipiscing.",
+                "app_action": "",
+                "discount": null
+              },
+              {
+                "period": "Lifetime",
+                "price": 127,
+                "billing_period": "one-time",
+                "description": "Lorem ipsum dolor amet sit consect adipiscing.",
+                "app_action": "",
+                "discount": null
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "name": "Layout & Design 11",
+            "image": "",
+            "pricing_list": [
+              {
+                "period": "Yearly",
+                "price": 27,
+                "billing_period": "billed yearly",
+                "description": "Lorem ipsum dolor amet sit consect adipiscing.",
+                "app_action": "",
+                "discount": null
+              },
+              {
+                "period": "Monthly",
+                "price": 47,
+                "billing_period": "billed yearly",
+                "description": "Lorem ipsum dolor amet sit consect adipiscing.",
+                "app_action": "",
+                "discount": null
+              },
+              {
+                "period": "Lifetime",
+                "price": 127,
+                "billing_period": "one-time",
+                "description": "Lorem ipsum dolor amet sit consect adipiscing.",
+                "app_action": "",
+                "discount": null
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "name": "Templates 11",
+            "image": "",
+            "pricing_list": [
+              {
+                "period": "Yearly",
+                "price": 27,
+                "billing_period": "billed yearly",
+                "description": "Lorem ipsum dolor amet sit consect adipiscing.",
+                "app_action": "",
+                "discount": null
+              },
+              {
+                "period": "Monthly",
+                "price": 47,
+                "billing_period": "billed yearly",
+                "description": "Lorem ipsum dolor amet sit consect adipiscing.",
+                "app_action": "",
+                "discount": null
+              },
+              {
+                "period": "Lifetime",
+                "price": 127,
+                "billing_period": "one-time",
+                "description": "Lorem ipsum dolor amet sit consect adipiscing.",
+                "app_action": "",
+                "discount": null
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "name": "Project Settings 11",
+            "image": "",
+            "pricing_list": [
+              {
+                "period": "Yearly",
+                "price": 27,
+                "billing_period": "billed yearly",
+                "description": "Lorem ipsum dolor amet sit consect adipiscing.",
+                "app_action": "",
+                "discount": null
+              },
+              {
+                "period": "Monthly",
+                "price": 47,
+                "billing_period": "billed yearly",
+                "description": "Lorem ipsum dolor amet sit consect adipiscing.",
+                "app_action": "",
+                "discount": null
+              },
+              {
+                "period": "Lifetime",
+                "price": 127,
+                "billing_period": "one-time",
+                "description": "Lorem ipsum dolor amet sit consect adipiscing.",
+                "app_action": "",
+                "discount": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Collection List",
+        "image": "",
+        "sub_categories": [
+          {
+            "id": 1,
+            "name": "View All 22",
+            "image": "",
+            "pricing_list": [
+              {
+                "period": "Yearly",
+                "price": 27,
+                "billing_period": "billed yearly",
+                "description": "Lorem ipsum dolor amet sit consect adipiscing.",
+                "app_action": "",
+                "discount": null
+              },
+              {
+                "period": "Monthly",
+                "price": 47,
+                "billing_period": "billed yearly",
+                "description": "Lorem ipsum dolor amet sit consect adipiscing.",
+                "app_action": "",
+                "discount": null
+              },
+              {
+                "period": "Lifetime",
+                "price": 127,
+                "billing_period": "one-time",
+                "description": "Lorem ipsum dolor amet sit consect adipiscing.",
+                "app_action": "",
+                "discount": null
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "name": "Getting Started 22",
+            "image": "",
+            "pricing_list": [
+              {
+                "period": "Yearly",
+                "price": 27,
+                "billing_period": "billed yearly",
+                "description": "Lorem ipsum dolor amet sit consect adipiscing.",
+                "app_action": "",
+                "discount": null
+              },
+              {
+                "period": "Monthly",
+                "price": 47,
+                "billing_period": "billed yearly",
+                "description": "Lorem ipsum dolor amet sit consect adipiscing.",
+                "app_action": "",
+                "discount": null
+              },
+              {
+                "period": "Lifetime",
+                "price": 127,
+                "billing_period": "one-time",
+                "description": "Lorem ipsum dolor amet sit consect adipiscing.",
+                "app_action": "",
+                "discount": null
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "name": "Layout & Design 22",
+            "image": "",
+            "pricing_list": [
+              {
+                "period": "Yearly",
+                "price": 27,
+                "billing_period": "billed yearly",
+                "description": "Lorem ipsum dolor amet sit consect adipiscing.",
+                "app_action": "",
+                "discount": null
+              },
+              {
+                "period": "Monthly",
+                "price": 47,
+                "billing_period": "billed yearly",
+                "description": "Lorem ipsum dolor amet sit consect adipiscing.",
+                "app_action": "",
+                "discount": null
+              },
+              {
+                "period": "Lifetime",
+                "price": 127,
+                "billing_period": "one-time",
+                "description": "Lorem ipsum dolor amet sit consect adipiscing.",
+                "app_action": "",
+                "discount": null
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "name": "Templates 22",
+            "image": "",
+            "pricing_list": [
+              {
+                "period": "Yearly",
+                "price": 27,
+                "billing_period": "billed yearly",
+                "description": "Lorem ipsum dolor amet sit consect adipiscing.",
+                "app_action": "",
+                "discount": null
+              },
+              {
+                "period": "Monthly",
+                "price": 47,
+                "billing_period": "billed yearly",
+                "description": "Lorem ipsum dolor amet sit consect adipiscing.",
+                "app_action": "",
+                "discount": null
+              },
+              {
+                "period": "Lifetime",
+                "price": 127,
+                "billing_period": "one-time",
+                "description": "Lorem ipsum dolor amet sit consect adipiscing.",
+                "app_action": "",
+                "discount": null
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "name": "Project Settings 22",
+            "image": "",
+            "pricing_list": [
+              {
+                "period": "Yearly",
+                "price": 27,
+                "billing_period": "billed yearly",
+                "description": "Lorem ipsum dolor amet sit consect adipiscing.",
+                "app_action": "",
+                "discount": null
+              },
+              {
+                "period": "Monthly",
+                "price": 47,
+                "billing_period": "billed yearly",
+                "description": "Lorem ipsum dolor amet sit consect adipiscing.",
+                "app_action": "",
+                "discount": null
+              },
+              {
+                "period": "Lifetime",
+                "price": 127,
+                "billing_period": "one-time",
+                "description": "Lorem ipsum dolor amet sit consect adipiscing.",
+                "app_action": "",
+                "discount": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Element Hierarchy",
+        "image": "",
+        "sub_categories": [
+          {
+            "id": 1,
+            "name": "View All 33",
+            "image": "",
+            "pricing_list": [
+              {
+                "period": "Yearly",
+                "price": 27,
+                "billing_period": "billed yearly",
+                "description": "Lorem ipsum dolor amet sit consect adipiscing.",
+                "app_action": "",
+                "discount": null
+              },
+              {
+                "period": "Monthly",
+                "price": 47,
+                "billing_period": "billed yearly",
+                "description": "Lorem ipsum dolor amet sit consect adipiscing.",
+                "app_action": "",
+                "discount": null
+              },
+              {
+                "period": "Lifetime",
+                "price": 127,
+                "billing_period": "one-time",
+                "description": "Lorem ipsum dolor amet sit consect adipiscing.",
+                "app_action": "",
+                "discount": null
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "name": "Getting Started 33",
+            "image": "",
+            "pricing_list": [
+              {
+                "period": "Yearly",
+                "price": 27,
+                "billing_period": "billed yearly",
+                "description": "Lorem ipsum dolor amet sit consect adipiscing.",
+                "app_action": "",
+                "discount": null
+              },
+              {
+                "period": "Monthly",
+                "price": 47,
+                "billing_period": "billed yearly",
+                "description": "Lorem ipsum dolor amet sit consect adipiscing.",
+                "app_action": "",
+                "discount": null
+              },
+              {
+                "period": "Lifetime",
+                "price": 127,
+                "billing_period": "one-time",
+                "description": "Lorem ipsum dolor amet sit consect adipiscing.",
+                "app_action": "",
+                "discount": null
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "name": "Layout & Design 33",
+            "image": "",
+            "pricing_list": [
+              {
+                "period": "Yearly",
+                "price": 27,
+                "billing_period": "billed yearly",
+                "description": "Lorem ipsum dolor amet sit consect adipiscing.",
+                "app_action": "",
+                "discount": null
+              },
+              {
+                "period": "Monthly",
+                "price": 47,
+                "billing_period": "billed yearly",
+                "description": "Lorem ipsum dolor amet sit consect adipiscing.",
+                "app_action": "",
+                "discount": null
+              },
+              {
+                "period": "Lifetime",
+                "price": 127,
+                "billing_period": "one-time",
+                "description": "Lorem ipsum dolor amet sit consect adipiscing.",
+                "app_action": "",
+                "discount": null
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "name": "Templates 33",
+            "image": "",
+            "pricing_list": [
+              {
+                "period": "Yearly",
+                "price": 27,
+                "billing_period": "billed yearly",
+                "description": "Lorem ipsum dolor amet sit consect adipiscing.",
+                "app_action": "",
+                "discount": null
+              },
+              {
+                "period": "Monthly",
+                "price": 47,
+                "billing_period": "billed yearly",
+                "description": "Lorem ipsum dolor amet sit consect adipiscing.",
+                "app_action": "",
+                "discount": null
+              },
+              {
+                "period": "Lifetime",
+                "price": 127,
+                "billing_period": "one-time",
+                "description": "Lorem ipsum dolor amet sit consect adipiscing.",
+                "app_action": "",
+                "discount": null
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "name": "Project Settings 33",
+            "image": "",
+            "pricing_list": [
+              {
+                "period": "Yearly",
+                "price": 27,
+                "billing_period": "billed yearly",
+                "description": "Lorem ipsum dolor amet sit consect adipiscing.",
+                "app_action": "",
+                "discount": null
+              },
+              {
+                "period": "Monthly",
+                "price": 47,
+                "billing_period": "billed yearly",
+                "description": "Lorem ipsum dolor amet sit consect adipiscing.",
+                "app_action": "",
+                "discount": null
+              },
+              {
+                "period": "Lifetime",
+                "price": 127,
+                "billing_period": "one-time",
+                "description": "Lorem ipsum dolor amet sit consect adipiscing.",
+                "app_action": "",
+                "discount": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Styling Basics",
+        "image": "",
+        "sub_categories": [
+          {
+            "id": 1,
+            "name": "View All 44",
+            "image": "",
+            "pricing_list": [
+              {
+                "period": "Yearly",
+                "price": 27,
+                "billing_period": "billed yearly",
+                "description": "Lorem ipsum dolor amet sit consect adipiscing.",
+                "app_action": "",
+                "discount": null
+              },
+              {
+                "period": "Monthly",
+                "price": 47,
+                "billing_period": "billed yearly",
+                "description": "Lorem ipsum dolor amet sit consect adipiscing.",
+                "app_action": "",
+                "discount": null
+              },
+              {
+                "period": "Lifetime",
+                "price": 127,
+                "billing_period": "one-time",
+                "description": "Lorem ipsum dolor amet sit consect adipiscing.",
+                "app_action": "",
+                "discount": null
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "name": "Getting Started 44",
+            "image": "",
+            "pricing_list": [
+              {
+                "period": "Yearly",
+                "price": 27,
+                "billing_period": "billed yearly",
+                "description": "Lorem ipsum dolor amet sit consect adipiscing.",
+                "app_action": "",
+                "discount": null
+              },
+              {
+                "period": "Monthly",
+                "price": 47,
+                "billing_period": "billed yearly",
+                "description": "Lorem ipsum dolor amet sit consect adipiscing.",
+                "app_action": "",
+                "discount": null
+              },
+              {
+                "period": "Lifetime",
+                "price": 127,
+                "billing_period": "one-time",
+                "description": "Lorem ipsum dolor amet sit consect adipiscing.",
+                "app_action": "",
+                "discount": null
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "name": "Layout & Design 44",
+            "image": "",
+            "pricing_list": [
+              {
+                "period": "Yearly",
+                "price": 27,
+                "billing_period": "billed yearly",
+                "description": "Lorem ipsum dolor amet sit consect adipiscing.",
+                "app_action": "",
+                "discount": null
+              },
+              {
+                "period": "Monthly",
+                "price": 47,
+                "billing_period": "billed yearly",
+                "description": "Lorem ipsum dolor amet sit consect adipiscing.",
+                "app_action": "",
+                "discount": null
+              },
+              {
+                "period": "Lifetime",
+                "price": 127,
+                "billing_period": "one-time",
+                "description": "Lorem ipsum dolor amet sit consect adipiscing.",
+                "app_action": "",
+                "discount": null
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "name": "Templates 44",
+            "image": "",
+            "pricing_list": [
+              {
+                "period": "Yearly",
+                "price": 27,
+                "billing_period": "billed yearly",
+                "description": "Lorem ipsum dolor amet sit consect adipiscing.",
+                "app_action": "",
+                "discount": null
+              },
+              {
+                "period": "Monthly",
+                "price": 47,
+                "billing_period": "billed yearly",
+                "description": "Lorem ipsum dolor amet sit consect adipiscing.",
+                "app_action": "",
+                "discount": null
+              },
+              {
+                "period": "Lifetime",
+                "price": 127,
+                "billing_period": "one-time",
+                "description": "Lorem ipsum dolor amet sit consect adipiscing.",
+                "app_action": "",
+                "discount": null
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "name": "Project Settings 44",
+            "image": "",
+            "pricing_list": [
+              {
+                "period": "Yearly",
+                "price": 27,
+                "billing_period": "billed yearly",
+                "description": "Lorem ipsum dolor amet sit consect adipiscing.",
+                "app_action": "",
+                "discount": null
+              },
+              {
+                "period": "Monthly",
+                "price": 47,
+                "billing_period": "billed yearly",
+                "description": "Lorem ipsum dolor amet sit consect adipiscing.",
+                "app_action": "",
+                "discount": null
+              },
+              {
+                "period": "Lifetime",
+                "price": 127,
+                "billing_period": "one-time",
+                "description": "Lorem ipsum dolor amet sit consect adipiscing.",
+                "app_action": "",
+                "discount": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Image Field",
+        "image": "",
+        "sub_categories": [
+          {
+            "id": 1,
+            "name": "View All 55",
+            "image": "",
+            "pricing_list": [
+              {
+                "period": "Yearly",
+                "price": 27,
+                "billing_period": "billed yearly",
+                "description": "Lorem ipsum dolor amet sit consect adipiscing.",
+                "app_action": "",
+                "discount": null
+              },
+              {
+                "period": "Monthly",
+                "price": 47,
+                "billing_period": "billed yearly",
+                "description": "Lorem ipsum dolor amet sit consect adipiscing.",
+                "app_action": "",
+                "discount": null
+              },
+              {
+                "period": "Lifetime",
+                "price": 127,
+                "billing_period": "one-time",
+                "description": "Lorem ipsum dolor amet sit consect adipiscing.",
+                "app_action": "",
+                "discount": null
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "name": "Getting Started 55",
+            "image": "",
+            "pricing_list": [
+              {
+                "period": "Yearly",
+                "price": 27,
+                "billing_period": "billed yearly",
+                "description": "Lorem ipsum dolor amet sit consect adipiscing.",
+                "app_action": "",
+                "discount": null
+              },
+              {
+                "period": "Monthly",
+                "price": 47,
+                "billing_period": "billed yearly",
+                "description": "Lorem ipsum dolor amet sit consect adipiscing.",
+                "app_action": "",
+                "discount": null
+              },
+              {
+                "period": "Lifetime",
+                "price": 127,
+                "billing_period": "one-time",
+                "description": "Lorem ipsum dolor amet sit consect adipiscing.",
+                "app_action": "",
+                "discount": null
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "name": "Layout & Design 55",
+            "image": "",
+            "pricing_list": [
+              {
+                "period": "Yearly",
+                "price": 27,
+                "billing_period": "billed yearly",
+                "description": "Lorem ipsum dolor amet sit consect adipiscing.",
+                "app_action": "",
+                "discount": null
+              },
+              {
+                "period": "Monthly",
+                "price": 47,
+                "billing_period": "billed yearly",
+                "description": "Lorem ipsum dolor amet sit consect adipiscing.",
+                "app_action": "",
+                "discount": null
+              },
+              {
+                "period": "Lifetime",
+                "price": 127,
+                "billing_period": "one-time",
+                "description": "Lorem ipsum dolor amet sit consect adipiscing.",
+                "app_action": "",
+                "discount": null
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "name": "Templates 55",
+            "image": "",
+            "pricing_list": [
+              {
+                "period": "Yearly",
+                "price": 27,
+                "billing_period": "billed yearly",
+                "description": "Lorem ipsum dolor amet sit consect adipiscing.",
+                "app_action": "",
+                "discount": null
+              },
+              {
+                "period": "Monthly",
+                "price": 47,
+                "billing_period": "billed yearly",
+                "description": "Lorem ipsum dolor amet sit consect adipiscing.",
+                "app_action": "",
+                "discount": null
+              },
+              {
+                "period": "Lifetime",
+                "price": 127,
+                "billing_period": "one-time",
+                "description": "Lorem ipsum dolor amet sit consect adipiscing.",
+                "app_action": "",
+                "discount": null
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "name": "Project Settings 55",
+            "image": "",
+            "pricing_list": [
+              {
+                "period": "Yearly",
+                "price": 27,
+                "billing_period": "billed yearly",
+                "description": "Lorem ipsum dolor amet sit consect adipiscing.",
+                "app_action": "",
+                "discount": null
+              },
+              {
+                "period": "Monthly",
+                "price": 47,
+                "billing_period": "billed yearly",
+                "description": "Lorem ipsum dolor amet sit consect adipiscing.",
+                "app_action": "",
+                "discount": null
+              },
+              {
+                "period": "Lifetime",
+                "price": 127,
+                "billing_period": "one-time",
+                "description": "Lorem ipsum dolor amet sit consect adipiscing.",
+                "app_action": "",
+                "discount": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "testimonies": [
+    {
+      "image": "",
+      "description": "",
+      "company_name": "",
+      "link": ""
+    }
+  ]
+}
